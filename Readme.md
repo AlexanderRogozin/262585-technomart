@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Alexander Rogozin](https://up.htmlacademy.ru/htmlcss/15/user/262585).
-* Наставник: `Неизвестно`.
+* Наставник: [Zubov Sergey](https://htmlacademy.ru/profile/serj).
 
 ---
 
